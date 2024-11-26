@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn[standard]
+poetry
+sqlalchemy
+alembic
+psycopg2-binary
