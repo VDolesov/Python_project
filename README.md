@@ -1,4 +1,4 @@
-# fastapi_docker_postgres_example
+# fastapi_docker_postgres
 FastApi app with Docker + PostgreSQL study example
 
 Порядок запуска приложения:
